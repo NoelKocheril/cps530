@@ -1,0 +1,25 @@
+{
+  "name": "cps530_assignment",
+  "version": "1.0.0",
+  "description": "CPS530 Final Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoelKocheril/cps530.git"
+  },
+  "keywords": [
+    "HTTP",
+    "Javascript",
+    "Node",
+    "Express"
+  ],
+  "author": "Noel Kocheril",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoelKocheril/cps530/issues"
+  },
+  "homepage": "https://github.com/NoelKocheril/cps530#readme"
+}
